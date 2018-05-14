@@ -1,0 +1,3 @@
+Name: Freja
+Age: unknown
+Favorite color: light blue

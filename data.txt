@@ -1,3 +1,3 @@
 Name: Freja
-Age: unknown
+Age: 23
 Favorite color: light blue
